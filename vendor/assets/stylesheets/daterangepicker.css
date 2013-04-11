@@ -1,5 +1,6 @@
 .daterangepicker.dropdown-menu {
   max-width: none;
+  display: none;
 }
 
 .daterangepicker.opensleft .ranges, .daterangepicker.opensleft .calendar {
